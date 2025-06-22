@@ -1,0 +1,25 @@
+{
+  "name": "Staplez Jay",
+  "symbol": "SJ",
+  "description": "Staplez Jay",
+  "seller_fee_basis_points": 0,
+  "image": "https://hqufz5ma4uypxm3gnsnlv6can6hc4o4wa7ashogbat3ojayrnkia.arweave.net/PChc9YDlMPuzZmyauvhAb44uO5YHwSO4wQT25IMRapA",
+  "external_url": "http://www.google.ca",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://hqufz5ma4uypxm3gnsnlv6can6hc4o4wa7ashogbat3ojayrnkia.arweave.net/PChc9YDlMPuzZmyauvhAb44uO5YHwSO4wQT25IMRapA",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "BzvDYPVMdUiyt9BBGhqUdPYhGuoCCGHn9GN33QP4t1Tw",
+        "verified": true,
+        "share": 100
+      }
+    ]
+  }
+}
