@@ -1,0 +1,28 @@
+{
+  "name": "Staplez Studio",
+  "symbol": "SZ",
+  "description": "A Collection of releases from Staplez Jay. ",
+  "seller_fee_basis_points": 0,
+  "image": "https://hqufz5ma4uypxm3gnsnlv6can6hc4o4wa7ashogbat3ojayrnkia.arweave.net/PChc9YDlMPuzZmyauvhAb44uO5YHwSO4wQT25IMRapA",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://hqufz5ma4uypxm3gnsnlv6can6hc4o4wa7ashogbat3ojayrnkia.arweave.net/PChc9YDlMPuzZmyauvhAb44uO5YHwSO4wQT25IMRapA",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8iYEMxwd4MzZWjfke72Pqb18jyUcrbL4qLpHNyBYiMZ2",
+        "verified": true,
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "Staplez Studios",
+    "family": "Staplez Collection "
+  }
+}
